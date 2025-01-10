@@ -1,0 +1,12 @@
+{
+    "model__colsample_bytree": 0.8201389793181323,
+    "model__gamma": 0.1556630589690338,
+    "model__learning_rate": 0.06,
+    "model__max_depth": 10,
+    "model__min_child_weight": 1.0,
+    "model__n_estimators": 698,
+    "model__reg_alpha": 9.485565399382136,
+    "model__reg_lambda": 6.3122171264421825,
+    "model__scale_pos_weight": 12.0,
+    "model__subsample": 0.60365177358948
+}
