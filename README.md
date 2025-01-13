@@ -30,5 +30,7 @@
 \---📁 scripts
          📄 hyperparameter_tuning.ipynb -- find best hyperparameters for each input data file
          📄 shap_values.ipynb -- compute SHAP values and performance metrics
-         📄 requirements.txt 
+         📄 requirements.txt
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License] (http://creativecommons.org/licenses/by-nc/4.0/).
 ```
