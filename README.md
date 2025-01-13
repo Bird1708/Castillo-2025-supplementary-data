@@ -1,6 +1,9 @@
 ```plaintext
-+---📁 input_data
-|   +---📁 ACP_LT_AOF
++---📁 input_data -- subfolders represent different methodological combinations
+|   +---📁 {TCP|ACP_{ST|LT}_{IDP|AOF}    Acronyms:
+|                                         # TCP: trench collision point | ACP: arc collision point 
+|                                         # ST: short-term approach | LT: long-term approach 
+|                                         # IDP: individual data points | AOF: area of formation
 |            📄 data.csv
 |
 +---📁 resources
@@ -8,7 +11,7 @@
 |        📄 PCD_data.csv
 |
 +---📁 results
-|   +---📁 TCP_ST_IDP
+|   +---📁 {TCP|ACP_{ST|LT}_{IDP|AOF}
 |       |    📄 final_hyperparameters.json
 |       |    📄 model_predictions.csv
 |       |    📄 performance_metrics.csv
@@ -20,6 +23,8 @@
 |           |
 |           \---📁 shaps_per_sample
 |                    📄 sample_0.csv
+|                    📄 sample_1.csv
+|                    ...
 |
 \---📁 scripts
          📄 hyperparameter_tuning.ipynb
