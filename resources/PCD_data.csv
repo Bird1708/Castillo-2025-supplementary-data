@@ -1,0 +1,111 @@
+rank,longitude,latitude,age,name,type,country,cu_mt,au_t,ag_t
+100,-67.78,-29.0,3.8,Famatina,Epithermal HS,Argentina,0.0,11.3,85.0
+88,-70.19,-16.57,4.6,Tucari,Epithermal HS,Peru,0.0,59.5,0.0
+39,-67.75,-29.0,5.0,Nevados  de  Famatina,Porphyry Au,Argentina,1.2,180.0,270.0
+5,-70.25583,-33.2,5.0,Los Sulfatos,Porphyry Cu,Chile,17.52,0.0,0.0
+55,-77.8966666666667,-8.55972222222222,5.0,El Aguila,Porphyry Cu,Peru,0.289,0.0,0.0
+74,-66.381805,-27.340068,5.2,Capillitas,Epithermal HS,Argentina,0.009,1.04,43.2
+1,-70.26666666666667,-33.13333333333333,5.22,Los  Bronces/Rio  Blanco,Porphyry Cu,Chile,204.3,761.075,5436.25
+2,-70.4625,-34.08861111111111,5.4,El  Teniente,Porphyry Cu,Chile,128.532,725.585,10780.12
+105,-72.312729,-14.973677,5.4,Arcata,Epithermal LS,Peru,0.0,6.3,0.0
+11,-66.28,-27.3708333333333,5.5,Agua  Rica,Porphyry Au,Argentina,6.543,282.53,4461.0
+71,-66.207575,-27.367737,5.5,Filo  Colorado,Porphyry Cu,Argentina,0.022,0.18,0.0
+9,-70.256043,-33.161424,5.5,Los Bronces Sur,Porphyry Cu,Chile,7.29,0.0,0.0
+90,-72.171564,-15.031963,6.0,Ares,Epithermal LS,Peru,0.0,30.0,0.0
+92,-66.80805,-25.305,6.4,Diablillos,Epithermal HS/Porphyry Au,Argentina,0.0,24.88,2923.72
+76,-69.97,-29.74,6.5,El Indio,Epithermal HS,Chile,0.0,950.0,0.0
+29,-70.323794,-34.048911,6.57,La Huifa,Porphyry Cu,Chile,2.424,0.0,0.0
+94,-66.678904,-27.302186,6.6,Farallón Negro,Epithermal LS,Argentina,0.0,19.0,0.0
+91,-69.39,-18.49,6.6,Choquelimpie,Epithermal HS,Chile,0.0,26.0,0.0
+28,-69.973054,-34.119044,6.8,Escalones,Porphyry Cu,Chile,2.5,37.0,602.0
+60,-75.7219,-12.3105,6.9,Yauricocha,Epithermal HS/CRD/Porphyry Au,Peru,0.179,10.72,976.0
+99,-69.96667,-29.58333,7.0,Sancarrón,Epithermal HS,Argentina,0.0,11.4,0.0
+18,-66.6333,-27.33062,7.089,Bajo  de  la  Alumbrera,Porphyry Au,Argentina,4.272,515.84,2015.0
+97,-70.02,-16.63,7.2,Santa Rosa,Epithermal HS,Peru,0.0,14.2,0.0
+53,-66.608299,-27.4,7.4,Bajo  de  San  Lucas,Porphyry Cu,Argentina,0.35,0.03,0.0
+6,-76.143033,-11.608839,7.4,Toromocho,Porphyry Cu,Peru,9.921,0.0,15064.0
+67,-79.233,-3.0833,7.4,Quimsacocha,Epithermal HS,Ecuador,0.04,102.1,765.4
+15,-70.2083,-30.95833,7.84,Los  Azules,Porphyry Cu,Argentina,4.618,57.72,1731.6
+24,-70.519553,-34.547238,8.0,Rosario de Rengo,Porphyry Cu,Chile,3.0,0.0,0.0
+98,-71.873506,-15.194028,8.0,Caylloma,Epithermal LS,Peru,0.0,13.5,0.0
+87,-69.95,-29.8,8.25,El Tambo,Epithermal HS,Chile,0.0,66.9,0.0
+57,-66.5666666666667,-27.2833333333333,8.355,Bajo  El  Durazno,Porphyry Au,Argentina,0.24,64.0,0.0
+68,-76.75,-10.4833,8.5,Raura,Porphyry Cu/Skarn,Peru,0.036,0.0,42.05
+83,-70.017686,-29.322693,8.55,Lama,Epithermal HS,Argentina,0.0,150.0,0.0
+77,-70.01,-29.32,8.55,Pascua,Epithermal HS,Chile,0.0,622.0,0.0
+56,-66.475,-27.3083,8.75,Cerro Atajo,Porphyry Cu,Argentina,0.245,0.03,0.0
+7,-70.45,-31.76,8.795,El Pachon,Porphyry Cu,Argentina,8.69,0.0,3318.0
+3,-70.5,-31.70833333333333,9.5,Los  Pelambres,Porphyry Cu,Chile,46.016,372.9,9397.08
+61,-79.3333333333333,-3.75,9.6,Fierro  Urcu,Epithermal HS,Ecuador,0.107,24.075,0.0
+108,-74.8,-12.9412,9.7,Julcani,Epithermal HS,Peru,0.0,1.8,227.0
+75,-78.515278,-6.986111,9.7,Yanacocha,Epithermal HS,Peru,0.0,2200.0,0.0
+37,-79.4166666666667,-2.95,9.71,Chaucha,Porphyry Cu,Ecuador,1.452,0.0,0.0
+20,-70.333367,-32.605833,10.0,Lagunillas,Porphyry Cu,Chile,4.05,37.5,0.0
+63,-78.1833333333333,-8.16666666666667,10.0,Alto  Dorado,Porphyry Au,Peru,0.051,3.9,0.0
+107,-74.20389,-14.66583,10.0,San Juan de Lucanas,Epithermal LS,Peru,0.0,4.7,0.0
+50,-70.9916666666667,-15.625,10.0,San Salvador de Patillani,Porphyry Cu,Peru,0.44,0.0,19.5
+8,-77.05,-9.53,10.02,Antamina,Porphyry Cu/Skarn,Peru,7.897,0.0,8791.0
+106,-72.0998,-15.4,10.8,Shila,Epithermal LS,Peru,0.0,5.0,0.0
+80,-69.169136,-27.380991,11.0,El Volcán,Epithermal HS,Chile,0.0,283.0,0.0
+23,-70.28,-31.48,11.13,Altar,Porphyry Cu,Argentina,3.482,82.585,0.0
+70,-66.0,-32.8333,11.2,Diente Verde,Porphyry Cu,Argentina,0.03,0.0,0.0
+14,-70.431,-32.378,11.2,Vizcachitas,Porphyry Cu,Chile,5.085,0.0,0.0
+89,-78.78,-6.92,11.2,Sipán,Epithermal HS,Peru,0.0,32.0,0.0
+33,-69.55,-30.4166,11.7,Arroyo  Chita,Porphyry Cu,Argentina,1.981,2.311,75.286
+79,-69.95,-29.36,11.7,Veladero,Epithermal HS,Argentina,0.0,344.44,6147.6
+35,-76.271861,-10.752972,11.75,Marcapunta-Colquijirca,Epithermal HS/CRD,Peru,1.55,64.0,6620.0
+25,-78.6694444444445,-6.72527777777778,12.4,Tantahuatay,Epithermal HS,Peru,2.962,144.6,3150.0
+64,-79.533334,-3.1666667,12.84,Tres Chorreras,Porphyry Au,Ecuador,0.05,30.0,350.0
+44,-69.03,-27.23,12.9,Lobo,Porphyry Au,Chile,0.742,128.0,0.0
+22,-76.391597,-10.698211,13.0,Quicay II,Porphyry Au,Peru,3.5,200.0,0.0
+13,-69.5857,-28.3408,13.13,Los Helados,Porphyry Cu,Chile,6.06,219.7,2239.3
+43,-78.6,-6.76,13.4,Cerro  Corona,Porphyry Au,Peru,0.9,317.0,0.0
+66,-76.54,-11.12,13.4,Chungar,Porphyry Cu/Skarn,Peru,0.042,0.0,50.88
+104,-72.501259,-15.233039,13.7,Poracota,Epithermal HS,Peru,0.0,6.6,0.0
+4,-79.1194444444444,-6.35833333333333,13.8,La Granja,Porphyry Cu,Peru,19.25,140.0,14700.0
+16,-69.2333333333333,-27.7833333333333,13.89,Cerro  Casale,Porphyry Au,Chile,4.497,899.5,0.0
+73,-67.9,-26.3,14.0,Betito,Porphyry Cu,Argentina,0.012,0.0,0.0
+42,-69.0833,-32.4666,14.0,Paramillos  Sur,Porphyry Cu,Argentina,0.991,0.0,0.0
+65,-69.7216666666667,-18.29,14.0,Dos  Hermanos,Porphyry Cu,Chile,0.05,0.0,0.0
+81,-69.296347,-27.55155,14.0,Maricunga,Epithermal HS,Chile,0.0,270.0,0.0
+36,-76.27,-10.78,14.35,Cerro de Pasco,Epithermal HS,Peru,1.5,0.03,18600.0
+102,-78.618802,-7.140859,14.5,Colpayoc,Porphyry Au,Peru,0.0,9.65,0.0
+82,-77.59,-9.45,14.5,Pierina,Epithermal HS,Peru,0.0,255.0,0.0
+45,-77.99583333333334,-8.788611111111111,14.7,Pashpap,Porphyry Cu,Peru,0.637,0.0,0.0
+21,-79.2833333333333,-6.08333333333333,15.0,Cañariaco,Porphyry Cu,Peru,4.012,60.18,1705.1
+96,-72.331553,-15.274652,15.0,Orcopampa,Epithermal LS,Peru,0.0,16.0,0.0
+103,-78.6,-7.99167,15.0,Salpo-Milluachaqui,Epithermal LS,Peru,0.0,7.5,0.0
+34,-77.77166666666666,-8.215555555555556,15.3,Magistral,Porphyry Cu/Skarn,Peru,1.857,0.0,1496.862
+58,-66.75,-25.15,15.4,Inca  Viejo,Porphyry Cu,Argentina,0.225,0.0,0.0
+49,-65.833,-24.266,15.4,Pancho  Arias,Porphyry Cu,Argentina,0.45,0.0,0.0
+69,-78.26,-7.61,15.5,Algamarca,Epithermal HS,Peru,0.03,14.0,1020.0
+62,-79.616666,-3.733333,15.5,Portovelo-Zaruma,Epithermal IS,Ecuador,0.082,121.03,564.2
+93,-78.900278,-6.827778,15.6,La Zanja,Epithermal HS,Peru,0.0,19.8,170.0
+31,-78.365833,-6.9141944,15.7,Minas  Conga,Porphyry Au,Peru,2.218,536.065,0.0
+40,-69.0833333333333,-32.3,16.0,Paramillos  Norte,Porphyry Cu,Argentina,1.079,0.0,0.0
+84,-69.208173,-27.007707,16.0,Cerro Maricunga,Porphyry Au,Chile,0.0,117.76,0.0
+10,-79.3083333333333,-4.94444444444444,11.27,Rio Blanco,Porphyry Cu,Peru,7.165,0.0,0.0
+86,-78.212778,-7.611666,16.0,Shahuindo,Epithermal HS/Epithermal IS,Peru,0.0,71.55,954.477
+101,-78.073525,-7.980863,16.94,La Virgen,Epithermal HS/Porphyry Au,Peru,0.0,11.2,0.0
+78,-78.247466,-7.964513,17.0,Alto Chicama,Epithermal HS,Peru,0.0,414.0,0.0
+19,-78.3166666666667,-7.01666666666667,17.0,El  Galeno,Porphyry Cu,Peru,4.091,164.93,1984.9
+41,-69.666,-28.495533,18.0,Filo del Sol,Epithermal HS/Porphyry Au,Chile,1.01,137.975,4564.062
+95,-79.63333,-3.21667,18.0,La Tigrera,Porphyry Au,Ecuador,0.0,17.884,0.0
+110,-78.02,-7.83,18.1,El Toro,Epithermal HS,Peru,0.0,0.1,0.0
+48,-78.615559,-7.76556,18.15,Pachagón,Porphyry Cu,Peru,0.5,0.0,0.0
+85,-69.27,-26.81,18.5,La Coipa,Epithermal HS,Chile,0.0,99.22,6520.0
+17,-69.5334,-28.1792,19.0,Caserones,Porphyry Cu,Chile,4.455,0.0,0.0
+38,-79.066,-1.5,19.2,Telimbela,Porphyry Cu,Ecuador,1.375,0.0,0.0
+12,-78.321,-7.031,20.0,Michiquillay,Porphyry Cu,Peru,6.3,163.0,600.0
+52,-79.7,-3.1,20.4,Gaby-Papa  Grande,Porphyry Au,Ecuador,0.36,240.0,680.0
+109,-70.290493,-16.118728,20.5,San Antonio de Esquilache,Epithermal LS,Peru,0.0,0.3,0.0
+32,-79.1333,-1.73333,21.5,Balzapamba-Las Guardias,Porphyry Cu,Ecuador,2.09,0.0,0.0
+54,-70.51667,-15.61667,23.0,Berenguela,Epithermal LS/CRD,Peru,0.349,0.0,4035.489
+51,-69.311958,-27.540832,23.22,Pancho,Porphyry Au,Chile,0.399,68.85,0.0
+47,-69.28,-27.38,23.275,Verde,Porphyry Au,Chile,0.598,296.0,0.0
+72,-70.641667,-15.655556,23.5,Cerro Hermoso,Epithermal IS,Peru,0.015,0.0,333.45
+59,-79.80083,-3.49138,23.51,Cangrejos,Porphyry Au,Ecuador,0.2,120.0,160.0
+46,-69.28,-27.27,23.81,La Pepa,Porphyry Au,Chile,0.607,104.72,0.0
+30,-69.299166,-27.675,24.0,Caspiche-Santa Cecilia,Epithermal HS/Porphyry Au,Chile,2.35,542.834,1093.77
+26,-69.5486,-28.4359,24.7,Josemaria,Porphyry Au,Argentina,2.923,211.68,927.36
+27,-78.136317,-7.895148,25.9,La Arena,Epithermal HS/Porphyry Au,Peru,2.636,190.0,286.0
