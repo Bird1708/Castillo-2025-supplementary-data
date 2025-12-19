@@ -13,7 +13,6 @@
 +---📁 results_restricted -- models trained using a constrained hyperparameter space
 |   +---📁 {TCP|ACP}_{ST|LT}_{IDP|AOF}
 |       |    📄 final_hyperparameters.json -- best hyperparameters found after tuning
-|       |    📄 model_predictions.csv -- main model's predictions within our defined spatiotemporal window
 |       |    📄 performance_metrics.csv -- model performance results for each cross-validation (N=1000)
 |       |
 |       \---📁 shap_values
